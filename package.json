@@ -1,0 +1,16 @@
+{
+  "name": "sqltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sqltest.js",
+  "scripts": {
+    "start": "node sqltest.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "10.0.3"
+  }
+}
